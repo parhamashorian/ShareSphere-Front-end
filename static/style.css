@@ -51,17 +51,6 @@ body {
   }
 
 
-  .navline {
-    width: 50%;
-    margin-top: 50px;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-    align-items: center;
-    justify-content: center;
-    opacity: 40%;
-
-  }
 
 table {
     color: rgb(212, 212, 212);
@@ -79,13 +68,6 @@ th {
     font-style: normal;
 }
 
-.th1 {
-  padding-left: 7%;
-}
-
-.th2 {
-  padding-left: 0;
-}
 
 td {
   padding-bottom: 4px;
@@ -94,9 +76,6 @@ td {
   font-style: normal;
 }
 
-.td0 {
-  padding-left: 7%;
-}
  
 .btn {
   background-color: #aa9c04;
